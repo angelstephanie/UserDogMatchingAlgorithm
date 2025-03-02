@@ -1,0 +1,21 @@
+user_id,user_name,user_age,user_gender,user_location,user_preferred_dog_breed,user_preferred_dog_characteristics
+1,Jacob Boyd,49,Female,Wong Tai Sin,"['French Bulldog', 'Border Collie', 'Mixed Breed', 'Poodle']","['Friendly', 'Loyal', 'Calm']"
+2,Ryan Wilson,48,Male,North,"['Shiba Inu', 'Labrador Retriever', 'Akita']","['Affectionate', 'Independent', 'Energetic', 'Well-trained']"
+3,Matthew Figueroa,40,Male,Sham Shui Po,['Chihuahua'],"['Independent', 'Loyal']"
+4,Mallory Mendez,24,Male,Central and Western,"['Dalmatian', 'Cavalier King Charles Spaniel', 'French Bulldog', 'Bichon Frise']","['Calm', 'Affectionate', 'Friendly']"
+5,Michael Lee,36,Female,Wan Chai,[],"['Friendly', 'Well-trained', 'Loyal', 'Calm']"
+6,Gabriella Mclaughlin,50,Male,Tuen Mun,[],"['Friendly', 'Energetic', 'Independent', 'Playful']"
+7,Ashley Chaney,21,Female,Kowloon City,"['Chihuahua', 'Poodle', 'Mixed Breed', 'Bichon Frise']","['Loyal', 'Well-trained']"
+8,Karen Wilkinson,29,Male,Sai Kung,[],[]
+9,Timothy Rogers,38,Female,Tsuen Wan,"['Cavalier King Charles Spaniel', 'Labrador Retriever']","['Affectionate', 'Playful', 'Energetic']"
+10,Melinda Hill,40,Male,Wong Tai Sin,['Poodle'],[]
+11,Alisha Brown,20,Male,Kowloon City,['Akita'],['Affectionate']
+12,Tony Rogers,46,Male,Islands,"['French Bulldog', 'Dalmatian']","['Loyal', 'Friendly', 'Affectionate']"
+13,Kevin Williams,50,Female,Southern,['French Bulldog'],[]
+14,Julia Dean,34,Male,Tai Po,"['Chihuahua', 'Mixed Breed', 'Shih Tzu']","['Independent', 'Well-trained', 'Calm']"
+15,Matthew Frost,28,Female,Kwun Tong,"['Siberian Husky', 'Chihuahua']","['Playful', 'Loyal']"
+16,Michael Christian,19,Male,Tsuen Wan,[],"['Calm', 'Loyal', 'Playful', 'Friendly']"
+17,Kristi Jimenez,42,Male,Central and Western,"['Labrador Retriever', 'French Bulldog', 'Akita', 'Cavalier King Charles Spaniel']","['Friendly', 'Loyal', 'Affectionate', 'Independent']"
+18,Maria Johnson,44,Female,Central and Western,"['Golden Retriever', 'Maltese', 'Border Collie', 'Cavalier King Charles Spaniel']","['Friendly', 'Well-trained', 'Calm', 'Independent']"
+19,Rebecca Ayala,43,Male,Kowloon City,"['Bichon Frise', 'Chihuahua', 'Shih Tzu']",[]
+20,Tonya Vaughn,38,Male,Sai Kung,['French Bulldog'],"['Loyal', 'Energetic', 'Calm']"

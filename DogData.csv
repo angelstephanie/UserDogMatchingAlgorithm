@@ -1,0 +1,41 @@
+dog_id,dog_name,dog_age,dog_gender,dog_location,dog_breed,dog_characteristics
+1,Winston,12,Female,Sha Tin,Beagle,"['Friendly', 'Playful', 'Energetic']"
+2,Winston,4,Female,Tai Po,Poodle,[]
+3,Molly,8,Female,Eastern,French Bulldog,"['Energetic', 'Gentle']"
+4,Lucy,8,Male,Kwai Tsing,Siberian Husky,"['Independent', 'Loyal']"
+5,Zoe,18,Male,Wong Tai Sin,Labrador Retriever,"['Independent', 'Calm', 'Playful', 'Energetic']"
+6,Max,13,Female,Kwai Tsing,Chihuahua,"['Affectionate', 'Energetic', 'Friendly', 'Well-trained']"
+7,Sadie,10,Male,Wong Tai Sin,Golden Retriever,['Energetic']
+8,Zoe,9,Female,Yuen Long,Akita,['Independent']
+9,Roxy,7,Male,Kowloon City,Maltese,"['Calm', 'Affectionate', 'Playful', 'Gentle']"
+10,Lucy,15,Female,Sai Kung,Poodle,[]
+11,Bella,13,Female,Southern,Pug,"['Loyal', 'Energetic', 'Calm']"
+12,Roxy,13,Male,Central and Western,Border Collie,"['Gentle', 'Independent', 'Loyal', 'Calm']"
+13,Sadie,10,Male,Kowloon City,Golden Retriever,"['Loyal', 'Independent', 'Gentle']"
+14,Lucy,4,Male,Sham Shui Po,French Bulldog,"['Playful', 'Calm']"
+15,Coco,13,Male,Sham Shui Po,Chihuahua,"['Energetic', 'Calm']"
+16,Bailey,14,Female,Kowloon City,Mixed Breed,"['Calm', 'Playful']"
+17,Daisy,7,Female,Kwun Tong,Poodle,['Gentle']
+18,Bailey,4,Male,North,Golden Retriever,"['Independent', 'Gentle', 'Friendly', 'Affectionate']"
+19,Bella,15,Male,Wong Tai Sin,Border Collie,"['Friendly', 'Energetic', 'Playful', 'Loyal']"
+20,Chester,6,Female,Islands,Cavalier King Charles Spaniel,"['Affectionate', 'Energetic', 'Independent']"
+21,Buddy,2,Male,Southern,Border Collie,"['Friendly', 'Loyal', 'Calm']"
+22,Zoe,15,Male,Tuen Mun,Mixed Breed,"['Gentle', 'Independent', 'Energetic']"
+23,Toby,3,Male,North,Shiba Inu,"['Calm', 'Playful', 'Independent', 'Loyal']"
+24,Toby,17,Female,Sha Tin,Golden Retriever,"['Loyal', 'Affectionate', 'Friendly']"
+25,Bella,6,Male,Yau Tsim Mong,Bichon Frise,"['Playful', 'Energetic', 'Loyal', 'Friendly']"
+26,Bailey,13,Female,Yau Tsim Mong,Labrador Retriever,['Energetic']
+27,Bella,13,Male,Yau Tsim Mong,Border Collie,"['Well-trained', 'Loyal']"
+28,Buddy,9,Male,Kowloon City,Siberian Husky,"['Friendly', 'Affectionate', 'Energetic']"
+29,Bailey,15,Male,North,Mixed Breed,['Gentle']
+30,Molly,15,Female,Yau Tsim Mong,Border Collie,"['Well-trained', 'Calm']"
+31,Oscar,12,Male,Tsuen Wan,Shiba Inu,"['Playful', 'Energetic', 'Gentle', 'Well-trained']"
+32,Lucy,10,Male,Tai Po,Labrador Retriever,[]
+33,Max,5,Female,Wan Chai,Pug,"['Independent', 'Well-trained', 'Calm']"
+34,Cooper,14,Female,North,Siberian Husky,"['Calm', 'Friendly', 'Loyal', 'Independent']"
+35,Lucy,18,Male,Kowloon City,Shih Tzu,"['Playful', 'Energetic', 'Independent', 'Calm']"
+36,Lucy,15,Male,Wan Chai,Siberian Husky,['Calm']
+37,Cooper,6,Female,Yau Tsim Mong,Mixed Breed,"['Friendly', 'Playful', 'Calm']"
+38,Bella,0,Male,Kowloon City,Golden Retriever,"['Friendly', 'Calm', 'Energetic', 'Gentle']"
+39,Roxy,11,Female,Tai Po,Chihuahua,[]
+40,Duke,15,Female,Tsuen Wan,Shetland Sheepdog,"['Energetic', 'Affectionate', 'Independent', 'Well-trained']"
